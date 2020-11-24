@@ -11,7 +11,7 @@ This repository contains the script used to count the read number by index seque
 
 ## <a name="installation">Installation</a>
 ### Requirements
-* The server state that [pigz](https://zlib.net/pigz/)](https://zlib.net/pigz/) has already been installed is needed to run the script
+* The server state that [pigz](https://zlib.net/pigz/) has already been installed is needed to run the script
 
 
 ## <a name="usage">Usage</a>
